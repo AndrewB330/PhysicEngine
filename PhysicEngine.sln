@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysicEngine", "PhysicEngine\PhysicEngine\PhysicEngine.csproj", "{96BC4023-C166-4018-8FB9-B7F995186573}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PhysicEngineContent", "PhysicEngine\PhysicEngineContent\PhysicEngineContent.contentproj", "{89A851D1-71FD-48C9-9002-25F5265952E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96BC4023-C166-4018-8FB9-B7F995186573}.Debug|x86.ActiveCfg = Debug|x86
+		{96BC4023-C166-4018-8FB9-B7F995186573}.Debug|x86.Build.0 = Debug|x86
+		{96BC4023-C166-4018-8FB9-B7F995186573}.Release|x86.ActiveCfg = Release|x86
+		{96BC4023-C166-4018-8FB9-B7F995186573}.Release|x86.Build.0 = Release|x86
+		{89A851D1-71FD-48C9-9002-25F5265952E3}.Debug|x86.ActiveCfg = Debug|x86
+		{89A851D1-71FD-48C9-9002-25F5265952E3}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
